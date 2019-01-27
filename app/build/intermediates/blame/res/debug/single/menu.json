@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/res/merged/debug/menu/menu_splash.xml",
+        "source": "/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/src/main/res/menu/menu_splash.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/res/merged/debug/menu/menu_activity2.xml",
+        "source": "/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/src/main/res/menu/menu_activity2.xml"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_a4408f2b701d257085a55fef3dba498dc938eba5.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.1_c834cb60b3116c27c79a52ddc49bf7afec39445e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-7.5.0_de0f15c80afae9ba8788079861a32f6d19e7177a.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.1_fb61e91b49ab639b62ad21dc5df26f6c96877189.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.1_704f9134fd7da58c2d8f0b30f6b0e14b36193099.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.1_e8176d41fd7d25790956eb9071dc7db2d1fdc045.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-7.5.0_4365a3bdc2954886ebb873f2563322d22cedd065.jar" />
+    </item>
+    <item
+        jar="/Users/matheusgoes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_9d7780e8e77553f43570c2e48f0b4eb9a6469d4d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Volumes/Macintosh HD/matheusgoes/Documentos/Informatica/AndroidStudioProjects/nonodigito/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-7.5.0_87aaaea3eeff37a0a1cb1f347bca60f64a982ce3.jar" />
+    </item>
+
+</items>
